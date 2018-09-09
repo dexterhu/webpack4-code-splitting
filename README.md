@@ -1,4 +1,4 @@
-# TPA Front End
+# Webpack 4 Code Splitting
 
 ### Install
 Run these lines:
